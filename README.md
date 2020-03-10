@@ -9,5 +9,5 @@ Preizkušeni IDEji:
 DEV C++ Bližnjice:
 - F9  . Compile
 - F10 . Run
-- F11 . Compile & Run
+- F11 . Compile & Run  <- več ali manj uporabljaš samo to
 - F12 . Rebuild All
